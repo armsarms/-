@@ -54,7 +54,7 @@ export default {
   height: 100px
 }
 #myMap {
-  width: 400px;
-  height: 400px;
+  width: 100%;
+  height: 300px;
 }
 </style>
